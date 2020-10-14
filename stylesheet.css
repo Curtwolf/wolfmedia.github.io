@@ -1,0 +1,160 @@
+body {
+  background-image:url("background.jpg"); 
+	background-size:cover;
+	
+		}
+
+
+
+ul {
+	position: absolute;
+	left: 8px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  background:#000;
+
+}
+li {
+  float: left;
+}
+img { float: left; position:static;}
+
+nav a:hover {
+ background-color: aqua;
+	 color: #000;
+}
+
+
+
+a {
+  display: block;
+  padding: 10px;
+  color:#fff;
+  text-decoration: none;
+  font-size: 20px;
+  position:relative;
+  top: 8px;
+}
+
+h1{ position: absolute;
+
+left: 510px;
+ top: 20px;}
+ 
+ p{ position: absolute;
+	 
+ left:200px;
+ top: 90px;
+ font-size: 30px;
+	 color:#04D6F8;
+	;
+}
+
+.IMG_0192{
+	position: absolute;
+	
+	height: 250px;
+	width: 200px;
+	left: 590px;
+	top: 20px;
+	border: solid;
+	border-color: #000;
+	border-radius: 50%;
+	}
+
+.pharagraph2 {position: absolute;
+top: 350px; color: #04D6F8; right: 400px;
+font-size: 30px;
+left: 400px}
+
+.wrapper{
+	position: relative;
+	top: 100px;
+	left: 280px;
+	align-content: center;
+	width: 700px;
+	height: 210px;
+
+	border-radius: 20px;
+}
+video{ 
+	position: relative;
+	width: 100%;
+	left: 0px; 
+	top: 2px;
+	border-radius: 20px;
+}
+.profile-card{
+	position: relative;
+	width: 800px;
+	height: 500px;
+	text-align: center;
+	border-radius: 8px;
+	left: 230px;
+	top: 80px;
+	overflow: hidden;
+	
+	
+	
+}
+
+.card-header{
+	background: #2c3a47;
+	position:relative;
+	top:40px;
+	width: 100%;
+	height: 99%;
+	left: 50px;
+	text-align: center;
+	
+	
+}
+
+.IMG_0227{
+	height: 99%;
+	width: 50%;
+	position: absolute;
+	left: 350px;
+}
+
+.name{
+	
+	position: relative;
+	right: 215px;
+	font-size: 25px;
+	color: #fff;
+	
+}
+
+.contain{
+	position:absolute;
+	bottom: 350px;
+	left: 100px;
+	color: #fff;
+	}
+
+
+
+
+	
+	
+
+
+
+
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+
+
